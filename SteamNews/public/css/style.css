@@ -1,0 +1,83 @@
+#login_box
+{
+    width:300px;
+    height:300px;
+    background-color: #4CB9FF;
+    margin: 0 auto;
+    margin-top:15%;
+    border:5px solid #FF565F;
+    padding:10px;
+    border-radius: 10px;
+}
+body
+{
+    background-image: url("../img/login_background.png");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100%;
+    text-align: center;
+    font-family: Arial;
+}
+#returnbutton
+{
+    width:100px;
+    line-height: 50px;
+}
+label
+{
+    font-size:20px;
+}
+#news
+{
+    width:100vw;
+}
+#option_bar
+{
+    background-color:#FF565F;
+    width:100vw;
+    padding: 10px;
+    margin: -10px;
+}
+.item
+{
+    background-color: #4cb9ff99;
+    border: #ff565f 2px solid;
+    
+    width: 350px;
+    
+    float: left;
+    
+    overflow: hidden;
+    
+    height: 300px;
+    
+    margin: 30px;
+    
+    padding: 20px;
+    
+    padding-top: 20px;
+    
+    padding-top: 19px;
+}
+.item_name
+{
+    background-color: #ff565f;
+    margin-top: -53px;
+    color: white;
+    height: auto;
+    padding: 15px;
+    padding-top: 15px;
+    font-size: 12px;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding-top: 32px;
+}
+.newstitle
+{
+    margin-bottom: 15px;
+}
+.item_data img
+{
+    width:200px;
+    height:100px;
+}
